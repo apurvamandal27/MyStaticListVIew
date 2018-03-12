@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Static List VIew</string>
+    <string-array name="myarray">
+        <item>Delhi</item>
+        <item>Noida</item>
+        <item>Changighar</item>
+        <item>Jaipur</item>
+        <item>Nainital</item>
+        <item>Dehradun</item>
+        <item>Haldwani</item>
+        <item>Khatima</item>
+        <item>Rudrapur</item>
+    </string-array>
+</resources>
